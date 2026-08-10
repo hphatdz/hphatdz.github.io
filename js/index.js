@@ -387,11 +387,11 @@ let typed = new Typed(".GioiThieu", {
 
 // MUSIC
 const HoangPhat_List = [
-  "music/1.mp3",
-  "music/2.mp3",
-  "music/4.mp3",
-  "music/5.mp3",
-  "music/6.mp3"
+  "https://media.githubusercontent.com/media/hphatdz/hphatdz.github.io/main/music/1.mp3",
+  "https://media.githubusercontent.com/media/hphatdz/hphatdz.github.io/main/music/2.mp3",
+  "https://media.githubusercontent.com/media/hphatdz/hphatdz.github.io/main/music/4.mp3",
+  "https://media.githubusercontent.com/media/hphatdz/hphatdz.github.io/main/music/5.mp3",
+  "https://media.githubusercontent.com/media/hphatdz/hphatdz.github.io/main/music/6.mp3"
 ];
 
 let randomPlaylist = [];
